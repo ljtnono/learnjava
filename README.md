@@ -1,2 +1,3 @@
 # learnjava
-用来记录学习java时写的demo代码
+这是一个用来记录java学习的git库
+
