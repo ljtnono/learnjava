@@ -44,6 +44,12 @@ public class HelloWorldLambda {
     }
 }
 
+/**
+ * 使用自定义的接口来接收lambda表达式
+ * 这种自定义的接口只能有一个函数
+ * 函数的参数列表必须和lambda表达式的一致
+ * 返回值必须和lambda表达式的一致
+ */
 interface HelloWorld {
     void hello(HelloWorldLambda helloWorldLambda);
 }
