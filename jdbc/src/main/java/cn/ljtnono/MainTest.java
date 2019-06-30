@@ -27,6 +27,8 @@ public class MainTest {
      *  相当于执行了两次注册驱动
      *  最后形成以下代码即可
      *  Class.forName(com.mysql.cj.jdbc.Driver)
+     *
+     *   使用配置文件properties文件简化配置
      */
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
         Connection connection = null;
