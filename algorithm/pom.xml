@@ -5,18 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>cn.ljtnono</groupId>
-  <artifactId>leanjava</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>algorithm</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>lambda</module>
-      <module>jdbc</module>
-      <module>stream</module>
-      <module>thread</module>
-      <module>algorithm</module>
-  </modules>
 
-  <name>leanjava</name>
+  <name>algorithm</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
